@@ -1,0 +1,10 @@
+# Source video files (browser-incompatible, converted to .mp4)
+*.mov
+
+# Very large videos exceeding GitHub 100MB limit
+PFE.mp4
+vr_space_simulation.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
